@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/CityPay_PayLink",
+    "type": "magento-module",
+    "license": "Open-Software-License",
+    "homepage": "",
+    "description": "CityPay PayLink payment module",
+    "authors": [
+    {
+        "name": "CityPay",
+        "email": "support@citypay.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
